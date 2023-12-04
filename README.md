@@ -17,3 +17,12 @@ Sebastian Keiff B. Rastrullo
 - Next evolution/stage of a hollow
 - Common Footsoldiers of the Arrancars
 - Weakest of the Menos class hollows
+
+
+### ![Facade](https://static.wikia.nocookie.net/xianb/images/6/6a/Ep148GuardiansOfForest.webp)
+*Adjuchas Class Hollow*
+
+- Spiritual Pressure: High
+- Next evolution/stage of a Gillian
+- Intelligent and cunning
+- Guardians of the Forest of Menos
