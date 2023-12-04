@@ -1,6 +1,8 @@
 # **Bleach: Hollow Types**
 Sebastian Keiff B. Rastrullo
-## ![Facade](https://static.wikia.nocookie.net/animeandmangauniverse/images/f/f8/Fishbone_D.jpg)
+
+<img src="https://static.wikia.nocookie.net/animeandmangauniverse/images/f/f8/Fishbone_D.jpg" width="800">
+
 *Basic/Normal Hollows*
 
 - Spiritual Pressure: Low
