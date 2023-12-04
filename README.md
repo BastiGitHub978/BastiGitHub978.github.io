@@ -1,7 +1,7 @@
 # **Bleach: Hollow Types**
 Sebastian Keiff B. Rastrullo
 
-<img src="https://static.wikia.nocookie.net/animeandmangauniverse/images/f/f8/Fishbone_D.jpg" width="800">
+## <img src="https://static.wikia.nocookie.net/animeandmangauniverse/images/f/f8/Fishbone_D.jpg" width="1000">
 
 *Basic/Normal Hollows*
 
@@ -12,7 +12,7 @@ Sebastian Keiff B. Rastrullo
 - Most Trained Soul Reapers can beat them with ease
 
 
-### ![Facade](https://static.wikia.nocookie.net/topstrongest/images/5/53/Gillians.jpg)
+### <img src="https://static.wikia.nocookie.net/topstrongest/images/5/53/Gillians.jpg" width="1000">
 *Gillian Class Hollow/Menos*
 
 - Spiritual Pressure: Moderate
@@ -21,7 +21,7 @@ Sebastian Keiff B. Rastrullo
 - Weakest of the Menos class hollows
 
 
-### ![Facade](https://static.wikia.nocookie.net/xianb/images/6/6a/Ep148GuardiansOfForest.webp)
+#### <img src="https://static.wikia.nocookie.net/xianb/images/6/6a/Ep148GuardiansOfForest.webp" width="1000">
 *Adjuchas Class Hollow*
 
 - Spiritual Pressure: High
