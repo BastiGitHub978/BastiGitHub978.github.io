@@ -1,7 +1,7 @@
 # **Bleach: Hollow Types**
 Sebastian Keiff B. Rastrullo
-## ![Facade](https://static.wikia.nocookie.net/bleach/images/e/e2/Ep1FishboneDProfile.png/revision/latest/scale-to-width-down/1000?cb=20210310035252&path-prefix=en)
-*First Type: Basic/Normal Hollows*
+## ![Facade](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbleach.fandom.com%2Fwiki%2FList_of_Hollows&psig=AOvVaw2wkdRGrcI0KBNBii4VjWlY&ust=1701744371726000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCQ-Jrl9IIDFQAAAAAdAAAAABAa)
+*Basic/Normal Hollows*
 
 - Spiritual Pressure: Low
 - Weakest
@@ -10,4 +10,5 @@ Sebastian Keiff B. Rastrullo
 - Most Trained Soul Reapers can beat them with ease
 
 
-### ![Facade]()
+### ![Facade](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-are-Hollows-in-Bleach-and-how-are-they-created&psig=AOvVaw2wkdRGrcI0KBNBii4VjWlY&ust=1701744371726000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCQ-Jrl9IIDFQAAAAAdAAAAABAQ)
+*Gilian/Menos Grande
