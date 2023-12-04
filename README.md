@@ -10,7 +10,7 @@ Sebastian Keiff B. Rastrullo
 - Most Trained Soul Reapers can beat them with ease
 
 
-### ![Facade](https://static.wikia.nocookie.net/topstrongest/images/5/53/Gillians.jpg/revision/latest?cb=20160912224333)
+### ![Facade](https://static.wikia.nocookie.net/topstrongest/images/5/53/Gillians.jpg)
 *Gillian Class Hollow/Menos*
 
 - Spiritual Pressure: Moderate
